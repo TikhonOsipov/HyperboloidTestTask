@@ -1,0 +1,6 @@
+# view res/layout/ymk_screen_buttons_layout.xml #generated:53
+-keep class ru.yandex.yandexmapkit.map.jams.JamsButton { <init>(...); }
+
+# view res/layout/ymk_screen_buttons_layout.xml #generated:30
+-keep class ru.yandex.yandexmapkit.map.scale.ScaleView { <init>(...); }
+

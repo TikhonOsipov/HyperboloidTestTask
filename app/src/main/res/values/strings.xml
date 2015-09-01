@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HyperboloidTestTask</string>
+
+    <string name="text">Description</string>
+    <string name="prices">Prices</string>
+    <string name="date">Date of addition</string>
+    <string name="location_text">Location</string>
+</resources>
