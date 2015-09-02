@@ -5,4 +5,5 @@
     <string name="prices">Prices</string>
     <string name="date">Date of addition</string>
     <string name="location_text">Location</string>
+    <string name="failure">Making the request failed</string>
 </resources>
