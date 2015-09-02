@@ -82,6 +82,8 @@ public class MainActivity extends BaseSpiceActivity {
                 mOverlayManager.removeOverlay(mOverlay);
                 isUpdating = true;
                 txtRequest = new MyHttpRequest(URL); //read JSON data from URL
+                getSpiceManager().execute(txtRequest, "txt", DurationInMillis.ONE_MINUTE,
+                        new TextRequestListener());
             }
         });
     }
